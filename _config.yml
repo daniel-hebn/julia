@@ -1,5 +1,5 @@
 # Site settings
-title: Julia #website title
+title: Daniel Hebn #website title
 description: > # this means to ignore newlines until "baseurl:"
   Julia
 url: #https://kuoa.github.io # the base hostname & protocol for your site
